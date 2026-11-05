@@ -4,7 +4,7 @@ Cleaning and Preprocessing data to ensure that the data is ready for analysis
 
 **Author:** Gershom Mosora Nyamongo
 **Program:** Synent Technologies - Data Science Internship (Task 1)
-**Demo video:** <paste your video link>
+**Demo video:** https://youtu.be/dVOYlWf6pUw
 
 ## Problem Statement
 Raw data is rarely ready for analysis. This project cleans and prepares the Titanic passenger dataset by handling missing values, removing duplicates, converting data types and renaming columns.
