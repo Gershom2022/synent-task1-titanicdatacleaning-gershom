@@ -3,7 +3,9 @@ Cleaning and Preprocessing data to ensure that the data is ready for analysis
 # Synent Task 1: Titanic Data Cleaning & Preprocessing
 
 **Author:** Gershom Mosora Nyamongo
+
 **Program:** Synent Technologies - Data Science Internship (Task 1)
+
 **Demo video:** https://youtu.be/dVOYlWf6pUw
 
 ## Problem Statement
